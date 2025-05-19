@@ -1,73 +1,67 @@
-# Welcome to your Lovable project
+# Citizen Complaints and Engagement System
 
-## Project info
+> Citizen Complaints and Engagement System allows citizens to submit complaints or feedback on public services. The system should be able to receive, categorize, and route submissions to the appropriate government agency. It should also support basic tracking (e.g., ticket status) and allow institutions to respond.
 
-**URL**: https://lovable.dev/projects/dceeb490-90d9-48ed-90a8-2f89131cf072
+## Project Documentation 📄
 
-## How can I edit this code?
+- [x] Here is the deployed of back end (https://ces-igkj.onrender.com/)👈
+- [x] Here is the deployed of front end (#)👈
 
-There are several ways of editing your application.
+### Front-End Repo 
 
-**Use Lovable**
+- [x] [Citizen Complaints and Engagement System](https://github.com/GOlivierNation/ceshackathon/tree/dev/Interface)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/dceeb490-90d9-48ed-90a8-2f89131cf072) and start prompting.
+## Built With 🛠️
 
-Changes made via Lovable will be committed automatically to this repo.
+- [x] Programming Language: [React, typescript]
+- [x] Linter: [tslinter]
+- [x] Code Editor: [VS Code](https://code.visualstudio.com/)
 
-**Use your preferred IDE**
+## Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+To get a local copy up and running follow these simple steps.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Prerequisites
 
-Follow these steps:
+- [x] A web browser like Google Chrome.
+- [x] A code editor like Visual Studio Code with Git.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+You can check if Git is installed by running the following command in the terminal.
+```
+$ git --version
 ```
 
-**Edit a file directly in GitHub**
+### Setup
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Clone the repository using the GitHub link provided below.
 
-**Use GitHub Codespaces**
+## installation
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+To get a local copy up and running follow these simple example steps.
 
-## What technologies are used for this project?
+- clone the repository by running:
+```
+git clone https://github.com/GOlivierNation/ceshackathon.git
+```
+- Install packages
+  ``` npm i ```
+- Run the app
+```npm run dev
 
-This project is built with:
+## Authors
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+👤 **GASOMINALI Olivier**
 
-## How can I deploy this project?
+- GitHub: [@GOlivierNation](https://github.com/GOlivierNation)
+- Twitter: [@OGasominali](https://twitter.com/OGasominali)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/oliviergasominali/)
 
-Simply open [Lovable](https://lovable.dev/projects/dceeb490-90d9-48ed-90a8-2f89131cf072) and click on Share -> Publish.
+## Show your support
 
-## Can I connect a custom domain to my Lovable project?
+Give a ⭐️ if you like this project!
 
-Yes, you can!
+The [Creative Commons license of the design](https://creativecommons.org/licenses/by-nc/4.0/) requires that you give appropriate credit to the author. Therefore, you must do it in the README of your project.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 📝 License
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+This project is [MIT](./LICENSE) licensed.
