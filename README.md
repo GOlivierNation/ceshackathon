@@ -5,7 +5,7 @@
 ## Project Documentation 📄
 
 - [x] Here is the deployed of back end (https://ces-igkj.onrender.com/)👈
-- [x] Here is the deployed of front end (#)👈
+- [x] Here is the deployed of front end (https://cesproject.netlify.app/login)👈
 
 ### Front-End Repo 
 
